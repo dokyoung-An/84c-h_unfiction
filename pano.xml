@@ -341,14 +341,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="79.0137">
+    <view fovmode="2" pannorth="181.018">
       <start projection="4" tilt="0.390949" pan="-3.81006" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-클로즈낮|가구ON|낮" heading="79.0137" copyright="" comment="" nodeid="node4" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
-      <mapcoords x_floorplan_percent="79.2" y_floorplan_percent="48.6" y="-1.33484" mapid="FloorPlan01" x="2.17529"/>
+    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-클로즈낮|가구ON|낮" heading="181.018" copyright="" comment="" nodeid="node4" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
+      <mapcoords x_floorplan_percent="44.4" y_floorplan_percent="59.2" y="-1.62598" mapid="FloorPlan01" x="1.21948"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -369,14 +369,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-132.397">
+    <view fovmode="2" pannorth="-276.55">
       <start projection="4" tilt="1.30892" pan="-40.5079" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-클로즈낮|가구ON|낮" heading="-132.397" copyright="" comment="" nodeid="node5" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
-      <mapcoords x_floorplan_percent="90.2" y_floorplan_percent="48.6" y="-1.33484" mapid="FloorPlan01" x="2.47742"/>
+    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-클로즈낮|가구ON|낮" heading="-276.55" copyright="" comment="" nodeid="node5" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
+      <mapcoords x_floorplan_percent="79.2" y_floorplan_percent="48.4" y="-1.32935" mapid="FloorPlan01" x="2.17529"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -397,13 +397,15 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="100"/>
+    <view fovmode="2" pannorth="-129.351">
+      <start projection="4" tilt="0.292542" pan="-39.2147" fov="160.032"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-클로즈낮|가구ON|낮" heading="0" copyright="" comment="" nodeid="node78" source="" info="" author="" latitude="" customnodeid="" description="발코니3"/>
+    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-클로즈낮|가구ON|낮" heading="-129.351" copyright="" comment="" nodeid="node78" source="" info="" author="" latitude="" customnodeid="" description="발코니3">
+      <mapcoords x_floorplan_percent="90.4" y_floorplan_percent="47.6" y="-1.30737" mapid="FloorPlan01" x="2.48291"/>
+    </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
@@ -554,7 +556,7 @@
       <hotspot skinid="ht_node" title="공용욕실" target="" tilt="-18.51" pan="-98.21" id="Point02" url="{node3}" description=""/>
       <hotspot skinid="ht_node" title="침실2" target="" tilt="-17.1" pan="-83.41" id="Point03" url="{node15}" description=""/>
       <hotspot skinid="ht_node" title="침실3-2" target="" tilt="-34.89" pan="-2.97" id="Point04" url="{node17}" description=""/>
-      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node4}" description=""/>
+      <hotspot skinid="ht_node" title="테라스2" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node5}" description=""/>
       <hotspot skinid="display-책상" title="" target="_blank" tilt="-20.66" pan="-48.86" id="Point06" url="" description=""/>
       <hotspot skinid="display-침대" title="" target="_blank" tilt="-19.55" pan="-1.2" id="Point07" url="" description=""/>
     </hotspots>
@@ -935,14 +937,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="81.0427">
+    <view fovmode="2" pannorth="177.294">
       <start projection="4" tilt="0.394215" pan="-1.71771" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-오픈낮|가구OFF|낮" heading="81.0427" copyright="" comment="" nodeid="node22" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
-      <mapcoords x_floorplan_percent="79.6" y_floorplan_percent="47.8" y="-1.31287" mapid="FloorPlan02" x="2.18628"/>
+    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-오픈낮|가구OFF|낮" heading="177.294" copyright="" comment="" nodeid="node22" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
+      <mapcoords x_floorplan_percent="44.4" y_floorplan_percent="59.2" y="-1.62598" mapid="FloorPlan02" x="1.21948"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -963,14 +965,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-126.788">
+    <view fovmode="2" pannorth="-271.467">
       <start projection="4" tilt="1.15176" pan="-36.6008" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-오픈낮|가구OFF|낮" heading="-126.788" copyright="" comment="" nodeid="node23" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
-      <mapcoords x_floorplan_percent="90.2" y_floorplan_percent="47" y="-1.29089" mapid="FloorPlan02" x="2.47742"/>
+    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-오픈낮|가구OFF|낮" heading="-271.467" copyright="" comment="" nodeid="node23" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
+      <mapcoords x_floorplan_percent="79.2" y_floorplan_percent="50.8" y="-1.39526" mapid="FloorPlan02" x="2.17529"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -991,13 +993,15 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="100"/>
+    <view fovmode="2" pannorth="-127.111">
+      <start projection="4" tilt="0.292542" pan="-39.2099" fov="160.032"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-오픈낮|가구OFF|낮" heading="0" copyright="" comment="" nodeid="node77" source="" info="" author="" latitude="" customnodeid="" description="발코니3"/>
+    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-오픈낮|가구OFF|낮" heading="-127.111" copyright="" comment="" nodeid="node77" source="" info="" author="" latitude="" customnodeid="" description="발코니3">
+      <mapcoords x_floorplan_percent="90.2" y_floorplan_percent="48.4" y="-1.32935" mapid="FloorPlan02" x="2.47742"/>
+    </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
@@ -1149,7 +1153,7 @@
       <hotspot skinid="ht_node" title="공용욕실" target="" tilt="-18.51" pan="-98.21" id="Point02" url="{node21}" description=""/>
       <hotspot skinid="ht_node" title="침실2" target="" tilt="-17.1" pan="-83.41" id="Point03" url="{node33}" description=""/>
       <hotspot skinid="ht_node" title="침실3-2" target="" tilt="-34.89" pan="-2.97" id="Point04" url="{node35}" description=""/>
-      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node22}" description=""/>
+      <hotspot skinid="ht_node" title="테라스2" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node23}" description=""/>
       <hotspot skinid="display-침대" title="" target="_blank" tilt="-19.55" pan="-1.2" id="Point06" url="" description=""/>
       <hotspot skinid="display-책상" title="" target="_blank" tilt="-20.66" pan="-48.86" id="Point07" url="" description=""/>
     </hotspots>
@@ -1529,14 +1533,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="86.972">
+    <view fovmode="2" pannorth="180.175">
       <start projection="4" tilt="0.391003" pan="4.14824" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-클로즈밤|가구ON|밤" heading="86.972" copyright="" comment="" nodeid="node42" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
-      <mapcoords x_floorplan_percent="78.4" y_floorplan_percent="48.4" y="-1.32935" mapid="FloorPlan03" x="2.15332"/>
+    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-클로즈밤|가구ON|밤" heading="180.175" copyright="" comment="" nodeid="node42" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
+      <mapcoords x_floorplan_percent="44.2" y_floorplan_percent="59.6" y="-1.63696" mapid="FloorPlan03" x="1.21399"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -1557,14 +1561,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-117.71">
+    <view fovmode="2" pannorth="-267.874">
       <start projection="4" tilt="1.13753" pan="-27.6976" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-클로즈밤|가구ON|밤" heading="-117.71" copyright="" comment="" nodeid="node43" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
-      <mapcoords x_floorplan_percent="89.6" y_floorplan_percent="48.4" y="-1.32935" mapid="FloorPlan03" x="2.46094"/>
+    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-클로즈밤|가구ON|밤" heading="-267.874" copyright="" comment="" nodeid="node43" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
+      <mapcoords x_floorplan_percent="78.8" y_floorplan_percent="49.4" y="-1.35681" mapid="FloorPlan03" x="2.16431"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -1585,13 +1589,15 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="100"/>
+    <view fovmode="2" pannorth="-121.748">
+      <start projection="4" tilt="0.292542" pan="-39.2147" fov="160.032"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-클로즈밤|가구ON|밤" heading="0" copyright="" comment="" nodeid="node80" source="" info="" author="" latitude="" customnodeid="" description="발코니3"/>
+    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-클로즈밤|가구ON|밤" heading="-121.748" copyright="" comment="" nodeid="node80" source="" info="" author="" latitude="" customnodeid="" description="발코니3">
+      <mapcoords x_floorplan_percent="91" y_floorplan_percent="48.2" y="-1.32385" mapid="FloorPlan03" x="2.49939"/>
+    </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
@@ -1742,7 +1748,7 @@
       <hotspot skinid="ht_node" title="공용욕실" target="" tilt="-18.51" pan="-98.21" id="Point02" url="{node41}" description=""/>
       <hotspot skinid="ht_node" title="침실2" target="" tilt="-17.1" pan="-83.41" id="Point03" url="{node53}" description=""/>
       <hotspot skinid="ht_node" title="침실3-2" target="" tilt="-34.89" pan="-2.97" id="Point04" url="{node55}" description=""/>
-      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node4}" description=""/>
+      <hotspot skinid="ht_node" title="테라스2" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node43}" description=""/>
       <hotspot skinid="display-책상" title="" target="_blank" tilt="-20.66" pan="-48.86" id="Point06" url="" description=""/>
       <hotspot skinid="display-침대" title="" target="_blank" tilt="-19.55" pan="-1.2" id="Point07" url="" description=""/>
     </hotspots>
@@ -1861,6 +1867,7 @@
       <hotspot skinid="ht_node" title="공용욕실" target="" tilt="-22.05" pan="-162.96" id="Point03" url="{node60}" description=""/>
       <hotspot skinid="ht_node" title="침실2" target="" tilt="-28.44" pan="-197.21" id="Point04" url="{node72}" description=""/>
       <hotspot skinid="ht_node" title="침실3-1" target="" tilt="-10.19" pan="-179.48" id="Point05" url="{node73}" description=""/>
+      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-37.03" pan="-335.94" id="Point06" url="{node61}" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" delay="none" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomin="0" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0"/>
@@ -1891,6 +1898,7 @@
       <hotspot skinid="ht_node" title="복도1" target="" tilt="-23.47" pan="-180.18" id="Point02" url="{node63}" description=""/>
       <hotspot skinid="ht_node" title="복도3" target="" tilt="-30.88" pan="-349.94" id="Point03" url="{node65}" description=""/>
       <hotspot skinid="ht_node" title="거실" target="" tilt="-23.95" pan="-291.43" id="Point04" url="{node59}" description=""/>
+      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-31.74" pan="-195.37" id="Point05" url="{node61}" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" delay="none" blendtime="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomin="0" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0"/>
@@ -2120,14 +2128,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="89.1758">
+    <view fovmode="2" pannorth="-2.96438">
       <start projection="4" tilt="0.390952" pan="6.35204" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-오픈밤|가구OFF|밤" heading="89.1758" copyright="" comment="" nodeid="node61" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
-      <mapcoords x_floorplan_percent="79.4" y_floorplan_percent="48.2" y="-1.32385" mapid="FloorPlan04" x="2.18079"/>
+    <userdata longitude="" datetime="" title="테라스1" tags="84PH-C-오픈밤|가구OFF|밤" heading="-2.96438" copyright="" comment="" nodeid="node61" source="" info="" author="" latitude="" customnodeid="" description="발코니1">
+      <mapcoords x_floorplan_percent="44.2" y_floorplan_percent="59.8" y="-1.64246" mapid="FloorPlan04" x="1.21399"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -2148,14 +2156,14 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="-123.513">
+    <view fovmode="2" pannorth="-269.346">
       <start projection="4" tilt="1.13708" pan="-33.5006" fov="147.94"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-오픈밤|가구OFF|밤" heading="-123.513" copyright="" comment="" nodeid="node62" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
-      <mapcoords x_floorplan_percent="90.6" y_floorplan_percent="48.4" y="-1.32935" mapid="FloorPlan04" x="2.4884"/>
+    <userdata longitude="" datetime="" title="테라스2" tags="84PH-C-오픈밤|가구OFF|밤" heading="-269.346" copyright="" comment="" nodeid="node62" source="" info="" author="" latitude="" customnodeid="" description="발코니2">
+      <mapcoords x_floorplan_percent="79.4" y_floorplan_percent="49.2" y="-1.35132" mapid="FloorPlan04" x="2.18079"/>
     </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
@@ -2176,13 +2184,15 @@
       <level width="500" height="500" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="2" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="100"/>
+    <view fovmode="2" pannorth="-128.559">
+      <start projection="4" tilt="0.292542" pan="-39.2147" fov="160.032"/>
       <flyin projection="9" tilt="-90" pan="0" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" fovstereographic="330" fovfisheye="360" tilt="90" pan="360" fov="140"/>
     </view>
-    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-오픈밤|가구OFF|밤" heading="0" copyright="" comment="" nodeid="node79" source="" info="" author="" latitude="" customnodeid="" description="발코니3"/>
+    <userdata longitude="" datetime="" title="테라스3" tags="84PH-C-오픈밤|가구OFF|밤" heading="-128.559" copyright="" comment="" nodeid="node79" source="" info="" author="" latitude="" customnodeid="" description="발코니3">
+      <mapcoords x_floorplan_percent="90.2" y_floorplan_percent="47.4" y="-1.30188" mapid="FloorPlan04" x="2.47742"/>
+    </userdata>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label bordercolor="0x000000" width="180" height="20" textcolor="0x000000" backgroundalpha="1" borderalpha="1" border="1" wordwrap="1" background="1" backgroundcolor="0xffffff" borderradius="1" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff"/>
@@ -2334,7 +2344,7 @@
       <hotspot skinid="ht_node" title="공용욕실" target="" tilt="-18.51" pan="-98.21" id="Point02" url="{node60}" description=""/>
       <hotspot skinid="ht_node" title="침실2" target="" tilt="-17.1" pan="-83.41" id="Point03" url="{node72}" description=""/>
       <hotspot skinid="ht_node" title="침실3-2" target="" tilt="-34.89" pan="-2.97" id="Point04" url="{node74}" description=""/>
-      <hotspot skinid="ht_node" title="테라스1" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node61}" description=""/>
+      <hotspot skinid="ht_node" title="테라스2" target="" tilt="-23.9" pan="-255.13" id="Point05" url="{node62}" description=""/>
       <hotspot skinid="display-책상" title="" target="_blank" tilt="-20.66" pan="-48.86" id="Point06" url="" description=""/>
       <hotspot skinid="display-침대" title="" target="_blank" tilt="-19.55" pan="-1.2" id="Point07" url="" description=""/>
     </hotspots>
