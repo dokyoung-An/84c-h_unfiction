@@ -1587,8 +1587,8 @@
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label background="1" borderalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" textalpha="1" enabled="1" width="180"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="-22.14" id="Point01" title="테라스3" target="" skinid="ht_node" pan="-46.1" description="" url="{node80}"/>
-      <hotspot tilt="-17.26" id="Point02" title="" target="_blank" skinid="display-선반" pan="-8.61" description="" url=""/>
+      <hotspot tilt="-15.86" id="Point01" title="테라스3" target="" skinid="ht_node" pan="-3.31" description="" url="{node80}"/>
+      <hotspot tilt="-27.7" id="Point02" title="" target="_blank" skinid="display-선반" pan="-71.15" description="" url=""/>
       <hotspot tilt="-29.76" id="Point03" title="침실3-1" target="" skinid="ht_node" pan="-197.86" description="" url="{node54}"/>
       <hotspot tilt="-17.6" id="Point04" title="침실3-2" target="" skinid="ht_node" pan="-139.04" description="" url="{node55}"/>
     </hotspots>
@@ -2188,8 +2188,8 @@
     <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
       <label background="1" borderalpha="1" wordwrap="1" height="20" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" border="1" borderradius="1" bordercolor="0x000000" textalpha="1" enabled="1" width="180"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="-22.14" id="Point01" title="테라스3" target="" skinid="ht_node" pan="-46.1" description="" url="{node79}"/>
-      <hotspot tilt="-17.26" id="Point02" title="" target="_blank" skinid="display-선반" pan="-8.61" description="" url=""/>
+      <hotspot tilt="-15.16" id="Point01" title="테라스3" target="" skinid="ht_node" pan="-3.07" description="" url="{node79}"/>
+      <hotspot tilt="-28.37" id="Point02" title="" target="_blank" skinid="display-선반" pan="-74.76" description="" url=""/>
       <hotspot tilt="-29.45" id="Point03" title="침실3-1" target="" skinid="ht_node" pan="-195.8" description="" url="{node73}"/>
       <hotspot tilt="-17.5" id="Point04" title="침실3-2" target="" skinid="ht_node" pan="-138.89" description="" url="{node74}"/>
     </hotspots>
